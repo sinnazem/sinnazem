@@ -51,13 +51,13 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://samnejati.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sinanazem&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=samnejati&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=samnejati&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Sina Nazem' Activity Graph](https://activity-graph.herokuapp.com/graph?username=samnejati&custom_title=Hesam%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://samnejati.dev)
+[![Hesam Nejati' Activity Graph](https://activity-graph.herokuapp.com/graph?username=samnejati&custom_title=Hesam%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://samnejati.dev)
 
 <br>
 
